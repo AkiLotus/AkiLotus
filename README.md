@@ -1,6 +1,5 @@
 ### Hi. 
 
-- Call me Akikaze, AkiLotus or Kaze.
-- ![ ](https://run.kaist.ac.kr/badges/codeforces/AkiLotus.svg) Former competitive programmer.
+- Call me AkiLotus or Kaze.
+- Former [competitive programmer](https://www.codeforces.com/profile/AkiLotus) (`codeforces_max=2203 @ 2019.08.11`).
 - 🔭 Currently working on something, maybe public, maybe private. Who knows?
-- Contact me on Facebook [here](https://www.facebook.com/DuyBach.O16).
